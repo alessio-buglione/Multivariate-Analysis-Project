@@ -11,8 +11,8 @@ Project based on two datasets:
 
 2) Wine Dataset Analysis:
   
-- Conducted exploratory data analysis on quantitative chemical features after separating them from the wine type variable.
+- Conducted exploratory data analysis on quantitative chemical features after separating them from the wine type variable;
 
-- Computed group-wise variance-covariance matrices to construct the within-group and between-group deviance matrices.
+- Computed group-wise variance-covariance matrices to construct the within-group and between-group deviance matrices;
 
 - Implemented Fisher's Linear Discriminant Analysis (LDA) to find linear combinations that separate the wine groups, followed by model validation using Leave-One-Out Cross-Validation (LOOCV).   
